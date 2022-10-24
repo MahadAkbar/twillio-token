@@ -1,1 +1,1 @@
-web: node-dev hello-world.js
+web: node hello-world.js
